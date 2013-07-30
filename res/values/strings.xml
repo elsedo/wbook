@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nätverksteknik</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="chapter01">Kapitel 1</string>
+ 
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    
+    
+    <!-- Styling! -->
+    <color name="infoBackground">#c7ccd9</color>
+    <color name="underlineOrange">#FF8800</color>
+    <color name="underlineLightBlue">#00ade7</color>
+    
+    <color name="darkBackground">#003547</color>
+    <color name="white">#ffffff</color>
+    <color name="darkBlueText">#191c21</color>
+    
+    <color name="aboutLightWhite">#d2f4ff</color>
+</resources>
